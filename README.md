@@ -1,2 +1,1 @@
-# Example
-An example greeter plugin
+Enable the plugin to hide the spellbook tooltip overlay.
